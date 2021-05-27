@@ -1,6 +1,6 @@
 # CMPE320_Programing
 
-OS homeworks
+OS homeworks from Spring 2021
 
 ## HW1
 
